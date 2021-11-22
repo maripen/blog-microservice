@@ -1,6 +1,6 @@
 # Microservice play
 
-JavaScript based post, comments and client microservice architecture.
+JavaScript microservice based blog engine with self developed event bus.
 
 ## Tech Stack Used
 
