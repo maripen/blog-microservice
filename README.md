@@ -8,3 +8,4 @@ JavaScript event based microservice blog engine with self developed event bus.
 - `ExpressJS`
 - `Event bus`
 - `Docker`
+- `Kubernetes`
