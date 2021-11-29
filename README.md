@@ -9,3 +9,4 @@ JavaScript event based microservice blog engine with self developed event bus.
 - `Event bus`
 - `Docker`
 - `Kubernetes`
+- `Skaffold`
